@@ -1,4 +1,6 @@
 // declare your functions here...
 function paragraphSelector() {$('p')}
 
-function $('#baby-ninja')
+function ninjaBabySelector() {$('#baby-ninja')}
+
+
