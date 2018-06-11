@@ -7,3 +7,4 @@ function lastImageSelector() {$('img:last')}
 
 function divSelector() {$('.pics')}
 
+function firstListItem() {$
