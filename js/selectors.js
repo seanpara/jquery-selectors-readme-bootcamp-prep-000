@@ -7,5 +7,6 @@ function ninjaBabySelector() {$('#baby-ninja')}
 
 function divSelector() {$('.pics')}
 
-function firstListItem() {$('#pic-list ul:first-child')}
-
+function firstListItem(){
+  return $('ul#pic-list li:first-child');
+}
