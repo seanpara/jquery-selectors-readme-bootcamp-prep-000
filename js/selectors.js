@@ -7,4 +7,5 @@ function lastImageSelector() {$('img:last')}
 
 function divSelector() {$('.pics')}
 
-function firstListItem() {$
+function firstListItem() {$('#pic-list ul:first-child')}
+
