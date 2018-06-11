@@ -4,3 +4,4 @@ function paragraphSelector() {$('p')}
 function ninjaBabySelector() {$('#baby-ninja')}
 
 
+$('.pics')
