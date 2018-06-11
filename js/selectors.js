@@ -3,6 +3,6 @@ function paragraphSelector() {$('p')}
 
 function ninjaBabySelector() {$('#baby-ninja')}
 
-function 
+function lastImageSelector() {$('img:last')}
 
 function divSelector() {$('.pics')}
