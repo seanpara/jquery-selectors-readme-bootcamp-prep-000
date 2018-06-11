@@ -6,3 +6,4 @@ function ninjaBabySelector() {$('#baby-ninja')}
 function lastImageSelector() {$('img:last')}
 
 function divSelector() {$('.pics')}
+
